@@ -1,3 +1,6 @@
 I added this file to the remote repository
 This is an addition from the local repository.
+
 This is the second addition from the local repository.
+
+added second line from remote repository.
